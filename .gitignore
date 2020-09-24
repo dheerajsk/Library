@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Library.Api/Library.Api/bin/Debug/netcoreapp3.1
+/Library.Api/Library.Api/obj
+/Library.Api/.vs/Library.Api/v16/TestStore/0
