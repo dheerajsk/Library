@@ -5,8 +5,11 @@ A book library project in .NetCore
 # Problem Statement
 
 This applicaion aims to create set of endpoints for a library client applicaiton. Any client(web/mobile) can use this api to perform CRUD operations on Books.
+
 It allows to get list of books available in memory.
+
 It allows to get a book by ID.
+
 It allows to update/delete a book in memory.
 
 
